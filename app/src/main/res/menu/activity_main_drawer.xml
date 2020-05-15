@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:iconTint="@color/colorNegre"
+        android:title="@string/menu_home" />
+
+    <item android:title="Controls">
+        <menu>
+            <item
+                android:id="@+id/nav_moviments"
+                android:icon="@drawable/ic_moviments"
+                android:iconTint="@color/colorNegre"
+                android:title="@string/menu_moviments" />
+        </menu>
+    </item>
+
+    <item android:title="Altres">
+        <menu>
+            <item
+                android:id="@+id/nav_musica"
+                android:icon="@drawable/music_player"
+                android:title="@string/menu_musica" />
+            <item
+                android:id="@+id/nav_opinio"
+                android:icon="@drawable/ic_opinio"
+                android:iconTint="@color/colorNegre"
+                android:title="@string/menu_opinio" />
+        </menu>
+    </item>
+
+</menu>

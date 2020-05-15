@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjecteFinal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Projecte Final SAR</string>
+    <string name="nav_header_subtitle">Guillem Roura Gallardo</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_opinio">Opinió</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_bluetooth">Bluetooth</string>
+    <string name="menu_moviments">Moviments</string>
+    <string name="menu_opinio">La meva opinió</string>
+    <string name="menu_musica">Musica</string>
+    <string name="CorrectPassword">1357</string>
+    <string name="UrlFormulariOpinio">https://forms.gle/gqHLxsLoRzWxZrUh7</string>
+</resources>
