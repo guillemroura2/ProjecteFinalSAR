@@ -31,7 +31,7 @@ public class HomeFragment extends Fragment {
 
         /*Com a estat inicial es deshabilita el "Navigation Drawer per obligar a l'usuari
             a introduir una contrasenya per tal de poder utilitzar l'aplicació*/
-        //((AppCompatActivity)getActivity()).getSupportActionBar().hide();
+        ((AppCompatActivity)getActivity()).getSupportActionBar().hide();
 
         //Missatge de benvinguda
         Toast.makeText(getContext(), "Benvingut/da", Toast.LENGTH_SHORT).show();
